@@ -26,7 +26,7 @@ predictions, accuracy = main.run(X, y, s, z, t)
 ```
 
 ### Example
-A complete example using tree structure data is provided in `Example.ipynb`.
+A complete example is provided in `Example.ipynb`.
 
 
 ## Citation
